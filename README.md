@@ -1,2 +1,2 @@
-# demobykangfu.github.io
+# demobykangfu
 A demo repository
